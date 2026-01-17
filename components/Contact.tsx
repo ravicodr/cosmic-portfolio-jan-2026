@@ -88,7 +88,7 @@ export default function Contact() {
           className="text-center mb-16"
         >
           <h2 className="font-orbitron text-4xl lg:text-5xl font-bold mb-4">
-            Let's Build Something{' '}
+            Let&apos;s Build Something{' '}
             <span className="bg-gradient-to-r from-cosmic-purple via-nebula-pink to-moon-glow bg-clip-text text-transparent">
               Amazing
             </span>
@@ -167,7 +167,7 @@ export default function Contact() {
                   required
                   rows={6}
                   className="w-full px-4 py-3 glass-effect rounded-lg border border-white/10 focus:border-cosmic-purple focus:outline-none focus:ring-2 focus:ring-cosmic-purple/50 transition-all text-white placeholder-text-dim resize-none"
-                  placeholder="Let's discuss your project..."
+                  placeholder="Let&apos;s discuss your project..."
                 />
               </div>
 

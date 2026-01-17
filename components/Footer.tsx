@@ -33,7 +33,7 @@ export default function Footer() {
           </div>
 
           <p className="text-xs text-text-dim/40">
-            "The cosmos is within us. We are made of star-stuff." - Carl Sagan
+            &quot;The cosmos is within us. We are made of star-stuff.&quot; - Carl Sagan
           </p>
         </motion.div>
       </div>
